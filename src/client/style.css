@@ -1,0 +1,22 @@
+.root{
+	-fx-background-color: #38a2d6;
+	-fx-text-fill: #ffffff;
+	-fx-font-family: 'Poppins';
+}
+.button{
+	-fx-background-radius: none;
+	-fx-text-fill: #EBD4CC;
+	-fx-background-color: #514945;
+	-fx-cursor: hand;
+}
+.text-area{
+	-fx-background-radius: none;
+	-fx-highlight-fill: #ee6638;
+}
+.scroll-pane{
+	-fx-background-color: #38a2d6;
+	-fx-background-radius: none;
+}
+.text-field{
+	-fx-background-radius: none;
+}
