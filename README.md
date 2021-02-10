@@ -16,3 +16,4 @@ Run the `Server.java` then run `Launch.java`
 if you want to use it in a network, change the IP address at line 65 in `ClientController.java`
 to the IP address of the machine running the server.
 
+NOTE: Tested only on localhost.
