@@ -2,6 +2,10 @@
 
 A simple Chat app.
 
+## Motivation:
+
+To learn socket programming, practice making GUI using screen builder
+
 ## Features
 
 - Multiple users can chat at the same time.
